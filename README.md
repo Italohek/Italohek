@@ -2,8 +2,8 @@
 
 <div>
   <a href= "https://github.com/Italohek">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Italohek&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italohek&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Italohek&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italohek&layout=compact&langs_count=16&theme=dracula"/>
 </div>
     
 - 👨‍💻 Hi, I'm a computer engineer who is studying at UnB (University of Brasília)  
