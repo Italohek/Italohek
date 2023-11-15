@@ -4,8 +4,8 @@
 
 <div>
   <a href= "https://github.com/Italohek">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Italohek&show_icons=true&theme=ayu-mirage&include_all_comits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italohek&layout=compact&langs_count=16&theme=ayu-mirage"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=Italohek&show_icons=true&theme=ayu-mirage&include_all_comits=true&count_private=true"/>
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italohek&layout=compact&langs_count=16&theme=ayu-mirage"/>
 </div>
     
 <div>
