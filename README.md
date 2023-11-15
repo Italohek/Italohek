@@ -11,7 +11,5 @@
 - 💬 Ask me about anything you want (except Gojo's death. That still hits me hard)
 - ⚡ Fun fact: One time I saw a little kitten with anemia alone on the street, so I grabbed him and now he's my copilot when I'm coding
 
-
-| 🎵 Now Playing                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://status.nmoo.dev/now-playing?open"><img src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> |
+### Playing now 🎧
+[![Spotify](https://novatorem-git-main-italo-bragas-projects.vercel.app/api/spotify)](https://open.spotify.com/italohek)
