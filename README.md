@@ -11,14 +11,14 @@
 <img align="right" src= "https://github.com/Italohek/Italohek/assets/132797328/1116a4bf-cadf-4a72-bfcc-46385a99d115" width="300" />
 </div>
 
-
-- 👨‍💻 Hi, I'm a computer engineer who is studying at UnB (University of Brasília)
+- 👨‍💻 Hi, my name is Italo braga and I'm a computer engineer who is studying at UnB (University of Brasília)
   
 - 👯 Right now, I'm studying machine learning and mobile development
 
 - 💬 Ask me about anything you want (except Gojo's death. That still hits me hard)
 
-- ⚡ Fun fact: One time I was walking down the street and then I saw a little kitten with anemia alone, so I grabbed him and now he's my copilot when I'm coding
+- ⚡ Fun fact: One time I was walking down the street and then I saw a little kitten with anemia, so I took him and now he's my copilot when I'm coding
+
 
 <h2> Playing now 🎧 </h2>
 
