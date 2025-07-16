@@ -1,4 +1,4 @@
-### From now on, my code will say "Hello {their name}" because you are my world
+### From now on, my code will say "Hello {your name}" because you are my world
 
 <h1> About me </h1>
 
