@@ -25,9 +25,7 @@
 
 <br>
 <h2> Playing now 🎧 </h2>
-<div align="center">
-  [![Spotify](https://novatorem-git-main-italo-bragas-projects.vercel.app/api/spotify)](https://open.spotify.com/italohek)
-</div>
+[![Spotify](https://novatorem-git-main-italo-bragas-projects.vercel.app/api/spotify)](https://open.spotify.com/italohek)
 <div align="right"> 
   <a href = "mailto:italohak@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
