@@ -2,7 +2,7 @@
 
 <h1> About me </h1>
 
-<div>
+<div align="center">
   <a href= "https://github.com/Italohek">
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=Italohek&show_icons=true&theme=ayu-mirage&include_all_comits=true&count_private=true"/>
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italohek&layout=compact&langs_count=16&theme=ayu-mirage"/>
@@ -24,9 +24,13 @@
 - ⚡ Fun fact: One time I was walking down the street and then I saw a little kitten with anemia, so I took him and now he's my copilot when I'm coding
 
 <br>
-<h2> Playing now 🎧 </h2>
 
+<div align="center">
+<h2> Playing now 🎧 </h2>
+  
 [![Spotify](https://novatorem-git-main-italo-bragas-projects.vercel.app/api/spotify)](https://open.spotify.com/italohek)
+</div>
+
 <div align="right"> 
   <a href = "mailto:italohak@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
