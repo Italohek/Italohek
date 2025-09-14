@@ -19,7 +19,7 @@
 
 👨‍💻 Hi, I'm Italo Braga, a Computer Engineering student at the University of Brasília (UnB).
 
-🚀 I'm currently focused on expanding my skills in Machine Learning and Mobile Development.
+🚀 I'm currently focused on expanding my skills in Machine Learning and Web Development.
 
 💬 I'm always open to connecting and discussing tech. Feel free to reach out!
 
