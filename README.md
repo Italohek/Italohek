@@ -17,13 +17,13 @@
 <br>
 <br>
 
-- 👨‍💻 Hi, my name is Italo braga and I'm a computer engineer who is studying at UnB (University of Brasília)
+👨‍💻 Hi, I'm Italo Braga, a Computer Engineering student at the University of Brasília (UnB).
 
-- 👯 Right now, I'm studying machine learning and mobile development
+🚀 I'm currently focused on expanding my skills in Machine Learning and Mobile Development.
 
-- 💬 Ask me about anything you want (except Gojo's death. That still hits me hard)
+💬 I'm always open to connecting and discussing tech. Feel free to reach out!
 
-- ⚡ Fun fact: One time I was walking down the street and then I saw a little kitten with anemia, so I took him and now he's my copilot when I'm coding
+⚡ Fun fact: My coding sessions are often supervised by my rescue cat, who I've nicknamed my "coding co-pilot."
 
 <br>
 
