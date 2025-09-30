@@ -23,7 +23,7 @@
 
 💬 I'm always open to connecting and discussing tech. Feel free to reach out!
 
-⚡ Fun fact: My coding sessions are often supervised by my rescue cat, who I've nicknamed my "coding co-pilot."
+⚡ Fun fact: My coding sessions are often supervised by my cat, who's called Toothless"
 
 <br>
 
