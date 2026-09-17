@@ -1,28 +1,38 @@
-### From now on, my code will say "Hello {your name}" because you are my world
-<h1> About me </h1>
- 
-<br> 
+# Hi, I'm Italo Braga 👋
 
-<div>
-  <a href= "https://github.com/Italohek">
-  <img align="right" src= "https://github.com/Italohek/Italohek/assets/132797328/1116a4bf-cadf-4a72-bfcc-46385a99d115" width="300" />
-</div>
-<br>
-<br>
+<p align="left">
+  <a href="https://github.com/Italohek">
+    <img align="right" src="https://github.com/Italohek/Italohek/assets/132797328/1116a4bf-cadf-4a72-bfcc-46385a99d115" width="300"/>
+  </a>
+</p>
 
-👨‍💻 Hi, I'm Italo Braga, a Computer Engineering student at the University of Brasília (UnB).
+### Computer Engineering Student | Software, Data & AI
 
-🚀 I'm currently focused on expanding my skills in Machine Learning and Web Development.
+I'm a **Computer Engineering student at the University of Brasília (UnB)**, interested in building practical software solutions and exploring the intersection of **software engineering, data, artificial intelligence, and systems**.
 
-💬 I'm always open to connecting and discussing tech. Feel free to reach out!
+My current interests include:
 
-⚡ Fun fact: My coding sessions are often supervised by my cat, who's called Toothless"
+* 🤖 **Machine Learning & AI**
+* 🐍 **Python & Data Engineering**
+* ⚙️ **Backend & Systems Development**
+* 🗄️ **Databases & Data Analytics**
+* 🌐 **Web & Application Development**
+* 💻 **Computer Architecture & Digital Systems**
 
-<br>
+I enjoy working on projects that combine engineering fundamentals with real-world applications, from data-driven systems and AI applications to full-stack software.
 
-<div align="right"> 
-  <a href = "mailto:italohak@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = "https://www.linkedin.com/in/italohek"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href = "https://instagram.com/italohek"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
+### Connect with me
 
+<p align="left">
+  <a href="mailto:italohak@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/italohek">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/italohek">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+> ⚡ **Fun fact:** My coding sessions are often supervised by my cat, Toothless.
